@@ -47,3 +47,6 @@ paso 3: ir a Redis Manager: http://redisdesktop.com/download y descargar el inst
 ### ¿Qué lenguajes soporta?
 
 Los lenguajes soportados por Redis son los siguientes: Lua, PHP, Ruby, Python, ActionScript, C, C++, C#, Clojure, Common Lisp, Erlang, Go, Haskell, haXe, Io, Java, Node.js, Objective-C, Perl, Pure Data, Scala, Smalltalk y Tcl.
+
+###### link de introduccion de redis:
+https://youtu.be/EalUtMuby_U
