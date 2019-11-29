@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642542678958",
+    "firebase_url": "https://ferreteria-22927.firebaseio.com",
+    "project_id": "ferreteria-22927",
+    "storage_bucket": "ferreteria-22927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642542678958:android:c56d3b256e7504b8a44e3f",
+        "android_client_info": {
+          "package_name": "com.example.ferreteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642542678958-1fu474kmm0u3afrmt4druuchd8vjsnqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ferreteria",
+            "certificate_hash": "cd26fbe2ac768d6dc94b242adf3c2b4c16bef075"
+          }
+        },
+        {
+          "client_id": "642542678958-41dl91o2ur0e2ir21f9qag1jc8v7uhj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHG9w41qtGuTYIFV9l9Xs5rBdQaYZueU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642542678958-41dl91o2ur0e2ir21f9qag1jc8v7uhj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
